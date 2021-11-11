@@ -1,0 +1,3 @@
+- 👋 Hola, soy @frannasich
+- 👀 Estoy interesado en el mundo del desarrollo de software
+- 🌱 Actualmente me encuentro aprendiendo todo lo necesario para ser un desarrollador web
