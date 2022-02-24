@@ -1,3 +1,3 @@
 - 👋 Hola, soy @frannasich
-- 👀 Estoy interesado en el mundo del desarrollo de software
-- 🌱 Actualmente me encuentro aprendiendo todo lo necesario para ser un desarrollador web
+- 👀 Estoy interesado en el desarrollo móvil
+- 🌱 Actualmente me encuentro en entrenamiento para ser un desarrollador iOS
