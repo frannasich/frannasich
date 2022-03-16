@@ -1,7 +1,6 @@
 # Francisco Nasich
 </br>
-
-### iOS Developer
+### iOS Developer 
 
 I am currently in a cycle of constant learning and my goal is to gain experience in mobile development for iOS.
 
