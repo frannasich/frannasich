@@ -1,13 +1,14 @@
 # Francisco Nasich
 </br>
-I'm 20 years old and I'm from Cordoba, Argentina 🇦🇷
+I am 21 years old and I am from Córdoba, Argentina 🇦🇷
 
 ### iOS Developer 
 
-I am currently in a cycle of constant learning and my goal is to gain experience in mobile development for iOS. 📲
+I am currently in a cycle of constant learning and gaining experience in mobile development for iOS. 📲
 
-My short-term goal is to specialize in frontend as well as mobile development for iOS devices. I am predisposed to improve and add new experiences to improve my skills, both technical and soft. 🛠 💪🏼
+My goal is to be part of an innovative and exciting project. In addition to being an expert in developing applications for iOS devices.
 
-### Contact Me
+I am constantly working on adding new experiences to improve my skills, both technical and soft. 🛠
 
-frannasich10@gmail.com
+### Contact me
+francnasich@gmail.com
