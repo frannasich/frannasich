@@ -11,4 +11,4 @@ My goal is to be part of an innovative and exciting project. In addition to bein
 I am constantly working on adding new experiences to improve my skills, both technical and soft. 🛠
 
 ### Contact me
-francnasich@gmail.com
+frannasich@gmail.com
